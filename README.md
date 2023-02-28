@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AlchlcDvl
-- 👀 I’m interested in Games.
-- 🌱 I’m currently learning Modding Games.
-- 💞️ I’m looking to collaborate on nothing really.
-- 📫 How to reach me (don't).
+yo i'm AlchlcDvl, commonly known as AD
+- random programmer on the verge of breaking apart
+- learning random shit for fun
+- broke uni student with too much free time
+- vibin with multiple disorders
 
-Not much to say about myself aside from the fact that I exist and the disorders I have currently just make my life so much worse.
+my stats which i learned from a certain somewhere
+![AlchlcDvl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlchlcDvl&show_icons=true&theme=dark)
