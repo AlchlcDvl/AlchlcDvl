@@ -4,5 +4,5 @@ yo i'm AlchlcDvl, commonly known as AD
 - broke uni student with too much free time
 - vibin with multiple disorders
 
-my stats which i learned from a certain somewhere
+my stats which i learned from a certain somewhere\
 ![AlchlcDvl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlchlcDvl&show_icons=true&theme=dark)
