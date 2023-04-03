@@ -3,4 +3,4 @@ yo i'm AlchlcDvl, commonly known as AD
 - learning random shit for fun
 - broke uni student with too much free time
 - vibin with multiple disorders
-- Discord: AlchlcDvl#0069
+- Discord: AlchlcDvl#3669
