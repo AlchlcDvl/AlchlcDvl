@@ -4,3 +4,5 @@ yo i'm AlchlcDvl, commonly known as AD
 - broke uni student with too much free time
 - vibin with multiple disorders
 - Discord: AlchlcDvl#3669
+
+[![My Profile](https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=synthwave)](#)
