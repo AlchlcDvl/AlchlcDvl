@@ -5,4 +5,8 @@ yo i'm AlchlcDvl, commonly known as AD
 - vibin with multiple disorders
 - Discord: AlchlcDvl#3669
 
+currently working on
+- [Town Of Us Reworked](https://github.com/AlchlcDvl/TownOfUsReworked)
+
+stats!
 [![My Profile](https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=synthwave)](#)
