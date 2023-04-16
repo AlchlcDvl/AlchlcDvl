@@ -6,6 +6,7 @@ yo i'm AlchlcDvl, commonly known as AD
 - Discord: AlchlcDvl#3669
 
 currently working on
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/TownOfUsReworked)
 
 stats!
