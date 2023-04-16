@@ -10,4 +10,4 @@ currently working on
 
 stats!
 
-[![My Profile](https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=synthwave)](#)
+[![My Profile](https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=midnight-purple)](#)
