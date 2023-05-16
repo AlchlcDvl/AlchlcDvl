@@ -7,7 +7,7 @@ yo i'm AlchlcDvl, commonly known as AD
 
 currently working on
 
-<a href="https://github.com/anuraghazra/github-readme-stats](https://github.com/AlchlcDvl/TownOfUsReworked">
+<a href="https://github.com/AlchlcDvl/TownOfUsReworked">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" />
 </a>
 
