@@ -8,11 +8,11 @@ yo i'm AlchlcDvl, commonly known as AD
 currently working on
 
 <a href="https://github.com/AlchlcDvl/TownOfUsReworked">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" />
+  <img align="center" src="https://as-erver-for-my-stats-ln7drvoy7-alchlcdvl.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" />
 </a>
 
 stats!
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true" />
+  <img align="center" src="https://as-erver-for-my-stats-ln7drvoy7-alchlcdvl.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true" />
 </a>
