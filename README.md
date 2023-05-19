@@ -3,7 +3,7 @@ yo i'm AlchlcDvl, commonly known as AD
 - learning random shit for fun
 - broke uni student with too much free time
 - vibin with multiple disorders
-- Discord: AlchlcDvl#3669
+- Discord: AlchlcSystm#0069
 
 currently working on
 
