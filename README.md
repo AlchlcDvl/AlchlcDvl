@@ -7,7 +7,9 @@ yo i'm AlchlcDvl, commonly known as AD
 
 currently working on
 
-[![Readme Card](https://a-server-for-my-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/TownOfUsReworked)
+[![Reworked](https://a-server-for-my-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/TownOfUsReworked)
+
+[![Assets](https://a-server-for-my-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/ReworkedAssets)
 
 stats!
 
