@@ -9,7 +9,7 @@ currently working on
 
 [![Reworked](https://a-server-for-my-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/TownOfUsReworked)
 
-[![Assets](https://a-server-for-my-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/ReworkedAssets)
+[![Assets](https://a-server-for-my-stats.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple)](https://github.com/AlchlcDvl/ReworkedAssets)
 
 stats!
 
