@@ -13,4 +13,4 @@ currently working on
 
 stats!
 
-[![My Profile](https://a-server-for-my-stats.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true)](#)
+[![My Profile](https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true)](#)
