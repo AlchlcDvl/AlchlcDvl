@@ -3,14 +3,14 @@ yo i'm AlchlcDvl, commonly known as AD
 - learning random shit for fun
 - broke uni student with too much free time
 - vibin with multiple disorders
-- Discord: AlchlcSystm#6709
+- Discord: @alchlcsystm
 
 currently working on
 
-[![Reworked](https://github-readme-stats.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/TownOfUsReworked)
+[![Reworked](https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple)](https://github.com/AlchlcDvl/TownOfUsReworked)
 
-[![Assets](https://github-readme-stats.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple)](https://github.com/AlchlcDvl/ReworkedAssets)
+[![Assets](https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple)](https://github.com/AlchlcDvl/ReworkedAssets)
 
 stats!
 
-[![My Profile](https://github-readme-stats.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true)](#)
+[![My Profile](https://stats-one-kohl.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true)](#)
