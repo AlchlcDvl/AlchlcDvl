@@ -9,7 +9,7 @@ currently working on
 
 <p>
   <img align="left" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" alt="alchlcdvl" />
-  &nbsp;<img align="right" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple" alt="alchlcdvl" />
+  &nbsp;<img align="centre" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple" alt="alchlcdvl" />
 </p>
 
 stats!
