@@ -8,7 +8,7 @@ yo i'm AlchlcDvl, commonly known as AD
 currently working on
 
 <p>
-  <img align="left" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" alt="alchlcdvl" />
+  <img align="left" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" alt="https://github.com/AlchlcDvl/TownOfUsReworked" />
   &nbsp;<img align="centre" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple" alt="alchlcdvl" />
 </p>
 
