@@ -5,13 +5,6 @@ yo i'm AlchlcDvl, commonly known as AD
 - vibin with multiple disorders
 - Discord: @alchlcsystm
 
-currently working on
-
-<p>
-  <a href="https://github.com/AlchlcDvl/TownOfUsReworked" target="_blank"><img align="left" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=townofusreworked&theme=midnight-purple" alt="alchlcdvl" />
-  &nbsp;<a href="https://github.com/AlchlcDvl/ReworkedAssets" target="_blank"><img align="centre" src="https://stats-one-kohl.vercel.app/api/pin/?username=alchlcdvl&repo=reworkedassets&theme=midnight-purple" alt="alchlcdvl" />
-</p>
-
 stats!
 
 [![My Profile](https://stats-one-kohl.vercel.app/api?username=alchlcdvl&theme=midnight-purple&count_private=true&show_icons=true)](#)
