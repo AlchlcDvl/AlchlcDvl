@@ -1,5 +1,8 @@
-I go by many names: Az, AlchlcDvl, AlchlcSystm. I am:
-- A mod dev (Among Us, 
+I go by many names: Az, AlchlcDvl, AlchlcSystm. I am a(n):
+- Mod dev (Among Us, Slime Rancher 1 and 2, Town of Salem 2)
+- Astrophysics student
+- Hobby programmer
+- Have a discord: @alchlcsystm
 
 stats!
 <p align="center">
